@@ -36,7 +36,6 @@ competitive-programming/
 │
 └── README.md
 
-
 ---
 
 ## 🚀 Workflow
@@ -44,7 +43,7 @@ competitive-programming/
 ### During Contest
 - Solve problems under time constraints
 - Save accepted solutions in `contests/`
-- Optionally add short notes in `notes.md`
+- Optionally add short notes in `notes.md` for each contest separately
 
 ### After Contest (Upsolving)
 - Revisit unsolved or partially solved problems
